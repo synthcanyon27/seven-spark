@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Seven Spark</string>
+
+    <string name="brand_title">SEVEN SPARK</string>
+    <string name="brand_subtitle">OBSERVATORY CALIBRATION ARRAY</string>
+    <string name="loading">LOADING…</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="next_sector">NEXT SECTOR</string>
+    <string name="menu">MENU</string>
+    <string name="levels">LEVELS</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="settings">SETTINGS</string>
+    <string name="spin">SPIN</string>
+    <string name="freeze">FREEZE</string>
+    <string name="rewind">REWIND</string>
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+    <string name="close">CLOSE</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="sectors">SECTORS</string>
+    <string name="expert">EXPERT</string>
+
+    <string name="menu_play_caption">CALIBRATE THE ARRAY</string>
+    <string name="menu_levels_caption">DISCOVERY MAP · 12 SECTORS · 6 EXPERT</string>
+    <string name="menu_howto_caption">CONTROLS AND RULES</string>
+    <string name="menu_settings_caption">DISPLAY AND PROGRESS</string>
+    <string name="menu_stars_label">STARS</string>
+    <string name="menu_best_label">BEST SPARK</string>
+    <string name="menu_total_label">SPARK</string>
+    <string name="fair_play_footer">18+ VISUAL STYLE ONLY · NO WAGERING · NO REAL MONEY · OFFLINE</string>
+
+    <string name="logo_description">SEVEN SPARK EMBLEM</string>
+    <string name="spark_core_description">SPARK CORE</string>
+    <string name="prism_tile">PRISM TILE</string>
+    <string name="cog_tile">BRASS COG TILE</string>
+    <string name="anchor_tile">ANCHOR TILE</string>
+    <string name="flux_tile">FLUX NODE TILE</string>
+
+    <string name="stat_moves">MOVES</string>
+    <string name="stat_goals">GOALS</string>
+    <string name="stat_spark">SPARK</string>
+    <string name="stat_drift">DRIFT</string>
+    <string name="stat_moves_left">MOVES LEFT</string>
+    <string name="stat_spark_earned">SPARK EARNED</string>
+    <string name="stat_best_chain">BEST CHAIN</string>
+
+    <string name="hint_select">TAP A COLUMN · SPIN TO ROTATE · FREEZE ONE ROW</string>
+    <string name="hint_freeze_pick">TAP A ROW TO FREEZE IT</string>
+    <string name="hint_spin_ready">COLUMN LOCKED · PRESS SPIN TO ROTATE IT DOWN</string>
+
+    <string name="objective_sum">SUM %1$d</string>
+    <string name="objective_triple">TRIPLE %1$d</string>
+    <string name="objective_run">%1$s RUN %2$d</string>
+    <string name="fraction">%1$d/%2$d</string>
+    <string name="fraction_done">✓ %1$d/%2$d</string>
+    <string name="chain_value">×%1$s</string>
+    <string name="seed_line">SEED %1$d</string>
+
+    <string name="band_violet">V</string>
+    <string name="band_cyan">C</string>
+    <string name="band_brass">B</string>
+    <string name="band_jade">J</string>
+    <string name="band_violet_name">VIOLET</string>
+    <string name="band_cyan_name">CYAN</string>
+    <string name="band_brass_name">BRASS</string>
+    <string name="band_jade_name">JADE</string>
+    <string name="tile_description">%1$s %2$d</string>
+    <string name="tile_state_frozen">FROZEN</string>
+    <string name="tile_state_active">ACTIVE</string>
+    <string name="column_index">C%1$d</string>
+
+    <string name="array_aligned">ARRAY ALIGNED</string>
+    <string name="out_of_moves">OUT OF MOVES</string>
+    <string name="signal_lost">SIGNAL LOST</string>
+    <string name="new_best_spark">NEW BEST SPARK</string>
+
+    <string name="map_title">DISCOVERY MAP</string>
+    <string name="map_locked">LOCKED</string>
+    <string name="map_needs_stars">NEEDS %1$d STARS</string>
+    <string name="map_locked_message">SECTOR SEALED · FINISH THE PREVIOUS SECTOR TO OPEN IT</string>
+    <string name="map_expert_empty">NO EXPERT CONTRACTS UNLOCKED · EARN 6 STARS IN THE SECTORS</string>
+    <string name="map_stars_badge">%1$d/%2$d</string>
+
+    <string name="howto_controls">CONTROLS</string>
+    <string name="howto_controls_1">TAP A COLUMN TO SELECT IT</string>
+    <string name="howto_controls_2">SPIN ROTATES IT DOWN BY ONE</string>
+    <string name="howto_controls_3">FREEZE HOLDS ONE ROW STILL</string>
+    <string name="howto_controls_4">REWIND UNDOES ONE MOVE</string>
+    <string name="howto_objectives">OBJECTIVES</string>
+    <string name="howto_objectives_1">SUM LINE · SEVEN VALUES IN A ROW ADD UP TO THE TARGET</string>
+    <string name="howto_objectives_2">TRIPLE · THREE NEIGHBOURS SHARE ONE VALUE</string>
+    <string name="howto_objectives_3">SPECTRUM RUN · NEIGHBOURS SHARE ONE BAND</string>
+    <string name="howto_modifiers">MODIFIERS</string>
+    <string name="howto_modifier_prism">PRISM COUNTS AS ANY SPECTRUM BAND</string>
+    <string name="howto_modifier_cog">BRASS COG ALSO SPINS THE COLUMN TO ITS RIGHT</string>
+    <string name="howto_modifier_anchor">ANCHOR NEVER MOVES · THE OTHERS SLIDE PAST IT</string>
+    <string name="howto_modifier_flux">FLUX NODE RAISES ITS VALUE BY ONE ON EVERY SPIN</string>
+    <string name="howto_drift">DRIFT AND MOVES</string>
+    <string name="howto_drift_1">EVERY SPIN COSTS ONE MOVE</string>
+    <string name="howto_drift_2">THREE SPINS WITHOUT PROGRESS LOSE THE SIGNAL</string>
+    <string name="howto_drift_3">A CHAIN WITHIN TWO MOVES MULTIPLIES SPARK</string>
+    <string name="howto_fair">FAIR PLAY</string>
+    <string name="howto_fair_1">18+ VISUAL STYLE ONLY</string>
+    <string name="howto_fair_2">NO WAGERING, NO PURCHASES, NO CASH REWARDS</string>
+    <string name="howto_fair_3">SPARK IS A FICTIONAL SCORE</string>
+    <string name="howto_fair_4">WORKS FULLY OFFLINE</string>
+
+    <string name="settings_numerals">NUMERALS ON TILES</string>
+    <string name="settings_band_labels">BAND LABELS</string>
+    <string name="settings_particles">PARTICLE TRAILS</string>
+    <string name="settings_reset_confirm">CLEAR EVERY STAR, SPARK AND UNLOCK?</string>
+    <string name="paused">PAUSED</string>
+    <string name="paused_body">%1$s · %2$d MOVES LEFT</string>
+
+    <string name="sector_1">SECTOR I — FIRST LIGHT</string>
+    <string name="sector_2">SECTOR II — COLD DRIFT</string>
+    <string name="sector_3">SECTOR III — PRISM FIELD</string>
+    <string name="sector_4">SECTOR IV — IRON ANCHOR</string>
+    <string name="sector_5">SECTOR V — BRASS MERIDIAN</string>
+    <string name="sector_6">SECTOR VI — FLUX CHORUS</string>
+    <string name="sector_7">SECTOR VII — SILENT ORBIT</string>
+    <string name="sector_8">SECTOR VIII — AMBER VEIL</string>
+    <string name="sector_9">SECTOR IX — CROSSED BEAMS</string>
+    <string name="sector_10">SECTOR X — DEEP LATTICE</string>
+    <string name="sector_11">SECTOR XI — VIOLET TIDE</string>
+    <string name="sector_12">SECTOR XII — LAST MERIDIAN</string>
+
+    <string name="expert_1">CONTRACT A — SPLIT SIGNAL</string>
+    <string name="expert_2">CONTRACT B — NARROW BAND</string>
+    <string name="expert_3">CONTRACT C — BRASS ECHO</string>
+    <string name="expert_4">CONTRACT D — NIGHT WATCH</string>
+    <string name="expert_5">CONTRACT E — HARD VACUUM</string>
+    <string name="expert_6">CONTRACT F — FINAL SPARK</string>
+</resources>
